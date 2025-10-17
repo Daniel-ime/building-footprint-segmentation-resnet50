@@ -32,7 +32,7 @@ This project uses advanced segmentation techniques to identify and extract build
 ### 1. Clone the Repository
 
 ```bash
-git clone <[your-repository-url](https://github.com/Daniel-ime/building-footprint-segmentation-resnet50)>
+git clone https://github.com/Daniel-ime/building-footprint-segmentation-resnet50
 ```
 
 ### 2. Create Conda Environment
